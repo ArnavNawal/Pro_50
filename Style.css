@@ -1,0 +1,40 @@
+.Menu{
+    font-size: 40px;
+    font-family: cursive;
+    color:rebeccapurple;
+    text-align: center;
+    background-color:aqua;
+    border: solid;
+    border-color: maroon;
+    border-radius: 10px;
+    border-width: 10px;
+    border-top-width:20px ;
+    border-left-width: 20px;
+    border-right-width: 20px;
+}
+.body{
+    font-size:22px;
+    color:royalblue;
+    text-align: center;
+    background-color: darkgoldenrod;
+    background-color:tan;
+    border: solid;
+    border-color: maroon;
+    border-radius: 10px;
+    border-width: 10px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+}
+.origami{
+    background-color: gold;
+    text-align: center;
+    font-size: 20px;
+    border: solid;
+    border-color: maroon;
+    border-radius: 10px;
+    border-width: 10px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    display: flex;
+    flex-direction: column;
+}
